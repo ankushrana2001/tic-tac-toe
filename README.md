@@ -9,19 +9,6 @@ A simple **Tic-Tac-Toe** game built using **Python** and **Tkinter**. The game a
 - 🔄 Detects a tie and ends the game accordingly
 - ⚡ Simple and lightweight
 
-## 🛠 Installation
-Ensure you have Python installed on your system (Python 3 recommended).
-
-1. 📥 Clone this repository or download the script:
-   ```sh
-   git clone <https://github.com/ankushrana2001/tic-tac-toe/>
-   cd tic-tac-toe
-   ```
-2. ▶️ Run the script:
-   ```sh
-   python tic_tac_toe.py
-   ```
-
 ## 🎲 How to Play
 1. 🎮 The game starts with **Player X**.
 2. Players take turns clicking on the grid to place their mark (**❌ X** or **⭕ O**).
